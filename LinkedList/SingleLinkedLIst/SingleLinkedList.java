@@ -71,6 +71,7 @@ public class SingleLinkedList{
 
         newNode.next = head;
         head = newNode;
+
     }
 
     //    Insertion of node at End
