@@ -1,4 +1,4 @@
-package Searching.problems;
+package Searching;
 
 public class BinarySearch {
     public int binarySearch(int arr[], int num, int low ,int high) {

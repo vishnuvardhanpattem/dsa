@@ -1,4 +1,4 @@
-package Searching.problems;
+package Searching;
 
 public class LinearSearch {
     

@@ -1,5 +1,7 @@
 package Searching.problems;
 
+import Searching.BinarySearch;
+
 public class ElementInInfiniteSortedArr {
     
     public int search(int arr[], int num){
